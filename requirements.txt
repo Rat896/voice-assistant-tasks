@@ -1,0 +1,9 @@
+fastapi>=0.115.0
+uvicorn[standard]>=0.30.6
+google-genai>=1.0.0
+pydantic>=2.9.2
+python-dotenv>=1.0.1
+python-multipart>=0.0.12
+edge-tts>=6.1.12
+numpy>=1.26.0
+tzdata>=2024.1
